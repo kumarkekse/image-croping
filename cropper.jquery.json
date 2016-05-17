@@ -1,0 +1,34 @@
+{
+  "name": "cropper",
+  "title": "Jquery image cropper",
+  "description": "it is image cropper plugin in jquery.You can just pass size in img tag and putting rel=crop.",
+  "keywords": [
+    "jquery",
+    "image",
+    "crop"
+  ],
+  "version": "1.0.0",
+  "author": {
+    "name": "Akshay Goyal",
+    "url": "https://github.com/akshaygoyal88/jquery-img-cropper"
+  },
+  "maintainers": [
+    {
+      "name": "Akshay Goyal",
+      "url": "https://github.com/akshaygoyal88/jquery-img-cropper"
+    }
+  ],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    }
+  ],
+  "bugs": "https://github.com/akshaygoyal88/jquery-img-cropper/issues",
+  "homepage": "https://github.com/akshaygoyal88/jquery-img-cropper",
+  "docs": "https://github.com/akshaygoyal88/jquery-img-cropper#readme",
+  "download": "https://github.com/akshaygoyal88/jquery-img-cropper/archive/master.zip",
+  "dependencies": {
+    "jquery": ">=1.4"
+  }
+}
